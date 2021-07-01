@@ -1,0 +1,22 @@
+
+{
+    "gpsData": {
+      "dtTime": "2017-06-30T12:50:00+00:00",
+      "coordinate": {
+        "datum": "wgs84",
+        "latitude": 200,
+        "format": "mas",
+        "longitude": 100
+      },
+      "courseHeading": 128.4,
+      "accuracy": {
+        "pdop": 10,
+        "hdop": 10
+      },
+      "velocity": {
+        "unit": "kph",
+        "value": 30
+      }
+    },
+    "ignition": "engineOn"
+  }

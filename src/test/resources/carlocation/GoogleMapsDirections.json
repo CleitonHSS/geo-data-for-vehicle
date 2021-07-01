@@ -1,0 +1,280 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ9aQDxE1Fz5QRwbrsKoZSrWk",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJBYap0QZQz5QR5CeD_vwCzN8",
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": -23.271943,
+                    "lng": -47.2883971
+                },
+                "southwest": {
+                    "lat": -23.2845481,
+                    "lng": -47.2979115
+                }
+            },
+            "copyrights": "Map data ©2020",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "2.5 km",
+                        "value": 2468
+                    },
+                    "duration": {
+                        "text": "5 mins",
+                        "value": 328
+                    },
+                    "end_address": "R. Dr. Lafayette Galvão de Toledo, 141 - Vila Gatti, Itu - SP, 13310, Brazil",
+                    "end_location": {
+                        "lat": -23.273646,
+                        "lng": -47.2979115
+                    },
+                    "start_address": "Av. Prudente de Moraes, 1314 - Jardim do Estadio, Itu - SP, 13309-300, Brazil",
+                    "start_location": {
+                        "lat": -23.2845481,
+                        "lng": -47.2883971
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "40 m",
+                                "value": 40
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 7
+                            },
+                            "end_location": {
+                                "lat": -23.2841955,
+                                "lng": -47.2884926
+                            },
+                            "html_instructions": "Head <b>north</b> on <b>R. Antônio Francisco de Araújo Cintra</b> toward <b>Av. Francisco E. Favero</b>",
+                            "polyline": {
+                                "points": "lwbmCn_s_HeAP"
+                            },
+                            "start_location": {
+                                "lat": -23.2845481,
+                                "lng": -47.2883971
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 146
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 24
+                            },
+                            "end_location": {
+                                "lat": -23.2841513,
+                                "lng": -47.2896513
+                            },
+                            "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>Av. Francisco E. Favero</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "fubmC``s_Hy@NVjBVjB"
+                            },
+                            "start_location": {
+                                "lat": -23.2841955,
+                                "lng": -47.2884926
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 149
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 19
+                            },
+                            "end_location": {
+                                "lat": -23.2843948,
+                                "lng": -47.2910777
+                            },
+                            "html_instructions": "Continue straight to stay on <b>Av. Francisco E. Favero</b>",
+                            "maneuver": "straight",
+                            "polyline": {
+                                "points": "|tbmChgs_HHl@Hl@X`BDr@Cj@"
+                            },
+                            "start_location": {
+                                "lat": -23.2841513,
+                                "lng": -47.2896513
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.1 km",
+                                "value": 1058
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 134
+                            },
+                            "end_location": {
+                                "lat": -23.2752337,
+                                "lng": -47.2909202
+                            },
+                            "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Rod. Waldomiro Corrêa de Camargo</b>/<wbr/><b>Av. Tiradentes</b> heading to <b>Cemitério</b>/<wbr/><b>Porto Feliz</b>/<wbr/><b>Centro Histórico</b><div style=\"font-size:0.9em\">Continue to follow Rod. Waldomiro Corrêa de Camargo</div>",
+                            "maneuver": "roundabout-right",
+                            "polyline": {
+                                "points": "lvbmCfps_He@JKD]JSDM@E@G?E@M?MAYKg@UUIKEOGSIw@[OGOEmAa@gBm@OEoAa@QCWCSCeB@Q?c@@A?Q?k@BiA@i@?m@CaACa@?U@o@H_@FWLmARs@J]DSDsAVsAV_@H]Hk@Hk@J"
+                            },
+                            "start_location": {
+                                "lat": -23.2843948,
+                                "lng": -47.2910777
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 134
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 26
+                            },
+                            "end_location": {
+                                "lat": -23.2755398,
+                                "lng": -47.2921924
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>R. Almeida Júnior</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "d}`mCfos_H^~B\\|B"
+                            },
+                            "start_location": {
+                                "lat": -23.2752337,
+                                "lng": -47.2909202
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 km",
+                                "value": 472
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 63
+                            },
+                            "end_location": {
+                                "lat": -23.271943,
+                                "lng": -47.2946282
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>R. Me. Maria Basília</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "b_amCdws_HIBuAb@MHGDUN{@j@_@TIFcAr@q@`@mBlAoBlAm@`@UNQLs@b@"
+                            },
+                            "start_location": {
+                                "lat": -23.2755398,
+                                "lng": -47.2921924
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 130
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 16
+                            },
+                            "end_location": {
+                                "lat": -23.2727506,
+                                "lng": -47.2955498
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>R. Mosteiro C N S das Mercemosteiro Concepcionista Nossa Sr.</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "rh`mClft_HpAzA~@hANP"
+                            },
+                            "start_location": {
+                                "lat": -23.271943,
+                                "lng": -47.2946282
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 km",
+                                "value": 238
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 26
+                            },
+                            "end_location": {
+                                "lat": -23.2742668,
+                                "lng": -47.29718829999999
+                            },
+                            "html_instructions": "Continue onto <b>R. Mosteiro Concepcionista Nossa Sra. das Mercês</b>",
+                            "polyline": {
+                                "points": "tm`mCdlt_HfBjBFHNN@@VVPPFJj@n@v@~@VX"
+                            },
+                            "start_location": {
+                                "lat": -23.2727506,
+                                "lng": -47.2955498
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.1 km",
+                                "value": 101
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 13
+                            },
+                            "end_location": {
+                                "lat": -23.273646,
+                                "lng": -47.2979115
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>R. Dr Lafayette Galvão de Toledo</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "dw`mClvt_H{BnC"
+                            },
+                            "start_location": {
+                                "lat": -23.2742668,
+                                "lng": -47.29718829999999
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "lwbmCn_s_H_C`@n@vEl@|DDr@Cj@q@P_ARa@BMAYK}@_@gBs@uE}A_Bg@i@GyBAu@@iCD{DGeAJ_@FWLaC^q@JeFbAwAT|@|F_Bf@UN{BxAsIpFiCbBpCdDvB|Bp@r@|BlCVX{BnC"
+            },
+            "summary": "Rod. Waldomiro Corrêa de Camargo",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}

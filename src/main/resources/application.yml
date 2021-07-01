@@ -1,0 +1,26 @@
+server:
+    port: 8080
+spring:
+    data:
+        mongodb:
+            uri: ${HCC_MONGO_DB}
+    application:
+        name: geodata
+    jmslistenercontainerfactory:
+        concurrency: 3-10
+
+message:
+    destination-queue:
+        destination: ${MESSAGE_QUEUE_DESTINATION}
+    listened-queue: ${MESSAGE_QUEUE_GEODATA}
+
+aws:
+    region: ${AWS_REGION}
+    accessKeyId: ${AWS_ACCESS_KEY_ID}
+    secretKey: ${AWS_SECRET_ACCESS_KEY}
+
+googlemaps:
+    key: ${GOOGLEMAPS_KEY}
+    url: https://maps.googleapis.com/maps/api
+    outputform: json
+
